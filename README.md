@@ -1,4 +1,4 @@
-## Polygon Ticket Aggregation
+## Polygon Ticker Trading Aggregation App
 
 This project consumes the Polygon.io delayed stocks API and aggregates prices for AAPL stock based on 30 second intervals. 
 Note that because the delayed API is being used, all trades are 15 minutes old. This will be reflected in the time window that is printed. 
